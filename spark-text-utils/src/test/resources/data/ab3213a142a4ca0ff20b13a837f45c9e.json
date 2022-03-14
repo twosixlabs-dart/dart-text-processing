@@ -1,0 +1,633 @@
+{
+  "capture_source": "BackgroundSource",
+  "extracted_metadata": {
+    "CreationDate": "2019-10-12",
+    "Type": "Web Page",
+    "Classification": "UNCLASSIFIED",
+    "URL": "https://www.sputnikmusic.com/review/80360/Lightning-Bolt-Sonic-Citadel/"
+  },
+  "content_type": "text/html",
+  "team": "Two Six Labs",
+  "document_id": "ab3213a142a4ca0ff20b13a837f45c9e",
+  "extracted_text": "Lightning Bolt\n\nSonic Citadel\n\n4.0\n\nexcellent\n\nReview\n\nby\nSandwhichBobble | Hermit in training USER (30 Reviews)\n\nOctober 12th, 2019 | 193 replies\n\nRelease Date: 10/11/2019 |\nTracklist\n\nReview Summary: A true wall of sound.\n\nEven the most diehard Lightning Bolt fan will concede that their formula isn’t exactly the most complex. Not the music itself, mind you; just the formula. For the bulk of their career, the band has been Brian Chippendale on drums/vocals and Brian Gibson on bass. They play loud, noise rock with elements of math rock and prog. And they’ve played to that sound pretty consistently for the past 25 years.\n\nAll of this might sound like I’m discrediting their craft or implying that they’ve gotten stale, but nothing could be further from the truth. A band as instantly recognizable as Lightning Bolt has a certain ‘image’ to uphold. Sure, they’ve dabbled with new sounds with some degree of success (the cleaner sound of their last album, Fantasy Empire). But when you hear a Lightning Bolt track, you instantly know who’s playing. A lot of bands would kill for that kind of recognition and it’s a testament to how finely crafted that very simple formula has become over their long tenure.\n\nThe question then becomes this: how can we keep this momentum going? It’s a tall order for sure, considering how highly revered the band has become over the years. But all bands must strive for new heights to keep the audience satisfied. Could they even top their 2000s work? Will they stay true to their sound? Apparently the answers to both these questions is yes, and Sonic Citadel is proof. By finely sharpening their sound while simultaneously adding new spices to the mix, Chippendale and Gibson craft not only one of their best records to date, but one of the best noise rock albums of the year.\n\nClocking in at just over 50 minutes, Sonic Citadel is a return to their sound from albums like Ride the Skies and Wonderful Rainbow. Gone is the cleaner production of their last record and this album is all the better for it. That’s not to say it’s recorded lo-fi or anything, but it definitely has that characteristic grit to it that was dearly missed on that last album (by me anyway). Nothing makes this clearer than the pounding drums and wild yelping of “Blow To The Head,” the album’s opener. Just an all-out assault on all accounts, it states the album’s mission of noisy, adrenaline-pumping rock in crystal-clear terms. This sound permeates the album, from the hardcore-tinged “Air Conditioning” to the high-octane rhythm of “Tom Thump.” However, they delve into a few new sounds on this album on tracks like “Don Henley in the Park,” a no wave-influenced track that fits surprisingly well with their more standard noise rock sound. However, not all of these experiments yield as fruitful results. The album’s one misstep takes the form of Sonic Citadel’s penultimate track, “All Insane.” While it isn’t egregious, or even that bad, it does slow the album’s pace to a bit of a crawl.\n\nThat one track aside, Sonic Citadel is Lightning Bolt at their most consistent and most quality. It's fresh to the ears, while still maintaining the sound they've built up for the past two decades. Earlier I mentioned that bands must always look forward when creating new albums, always straddling the line between the experimental and comfortable. On Sonic Citadel, Lightning Bolt might have just hit the sweet spot. Only thing left to do is to see where they take us from here.\n\nRecent reviews by this author\n\nof Montreal The Early Four Track RecordingsDuster Duster\n\nNameless Creations Upon God's CallSwans Leaving Meaning\n\nSACRED PAWS Run Around the SunThurston Moore Spirit Counsel",
+  "uri": "http://my.graph.com/rdf/model",
+  "source_uri": "Lightning Bolt - Sonic Citadel (album review ) | Sputnikmusic.html",
+  "extracted_ntriples": "<http://one.example/subject1> <http://one.example/predicate1> <http://one.example/object1> .",
+  "timestamp": "2020-01-14T21:28:51.000Z",
+  "annotations": [
+    {
+      "type": "facets",
+      "label": "Qntfy Categorization",
+      "version": "0.1.0",
+      "content": [
+        {
+          "value": "agriculture",
+          "confidence": 0.1728377308783258
+        },
+        {
+          "value": "climate",
+          "confidence": 0.011090476408586932
+        },
+        {
+          "value": "commerce",
+          "confidence": 0.010253616035629366
+        },
+        {
+          "value": "conflict",
+          "confidence": 0.0037474321953830485
+        },
+        {
+          "value": "economic",
+          "confidence": 0.012074003721608651
+        },
+        {
+          "value": "health",
+          "confidence": 0.012651825771458104
+        },
+        {
+          "value": "hydrology",
+          "confidence": 0.7212631790574393
+        },
+        {
+          "value": "migration",
+          "confidence": 0.015660735121156483
+        }
+      ],
+      "class": "derived"
+    },
+    {
+      "type": "tags",
+      "label": "Qntfy Event detection",
+      "version": "0.1.1",
+      "content": [
+        {
+          "offset_start": 139,
+          "offset_end": 146,
+          "value": "replies",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 271,
+          "offset_end": 278,
+          "value": "concede",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 300,
+          "offset_end": 303,
+          "value": "n’t",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 493,
+          "offset_end": 497,
+          "value": "play",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 564,
+          "offset_end": 570,
+          "value": "played",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 647,
+          "offset_end": 652,
+          "value": "sound",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 690,
+          "offset_end": 698,
+          "value": "implying",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 712,
+          "offset_end": 718,
+          "value": "gotten",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 847,
+          "offset_end": 853,
+          "value": "uphold",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 869,
+          "offset_end": 876,
+          "value": "dabbled",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 991,
+          "offset_end": 995,
+          "value": "hear",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1034,
+          "offset_end": 1038,
+          "value": "know",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1045,
+          "offset_end": 1052,
+          "value": "playing",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1075,
+          "offset_end": 1079,
+          "value": "kill",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1181,
+          "offset_end": 1187,
+          "value": "become",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1231,
+          "offset_end": 1238,
+          "value": "becomes",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1256,
+          "offset_end": 1260,
+          "value": "keep",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1310,
+          "offset_end": 1321,
+          "value": "considering",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1333,
+          "offset_end": 1340,
+          "value": "revered",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1354,
+          "offset_end": 1360,
+          "value": "become",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1396,
+          "offset_end": 1402,
+          "value": "strive",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1422,
+          "offset_end": 1426,
+          "value": "keep",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1440,
+          "offset_end": 1449,
+          "value": "satisfied",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1467,
+          "offset_end": 1470,
+          "value": "top",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1499,
+          "offset_end": 1503,
+          "value": "stay",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1618,
+          "offset_end": 1628,
+          "value": "sharpening",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1662,
+          "offset_end": 1668,
+          "value": "adding",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1873,
+          "offset_end": 1879,
+          "value": "return",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 1970,
+          "offset_end": 1980,
+          "value": "production",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2057,
+          "offset_end": 2060,
+          "value": "say",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2066,
+          "offset_end": 2074,
+          "value": "recorded",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2163,
+          "offset_end": 2169,
+          "value": "missed",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2213,
+          "offset_end": 2218,
+          "value": "makes",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2332,
+          "offset_end": 2339,
+          "value": "assault",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2408,
+          "offset_end": 2415,
+          "value": "pumping",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2577,
+          "offset_end": 2582,
+          "value": "delve",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2670,
+          "offset_end": 2680,
+          "value": "influenced",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2692,
+          "offset_end": 2696,
+          "value": "fits",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2796,
+          "offset_end": 2801,
+          "value": "yield",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2814,
+          "offset_end": 2821,
+          "value": "results",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2832,
+          "offset_end": 2834,
+          "value": "’s",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2847,
+          "offset_end": 2852,
+          "value": "takes",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 2966,
+          "offset_end": 2970,
+          "value": "slow",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3143,
+          "offset_end": 3154,
+          "value": "maintaining",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3173,
+          "offset_end": 3178,
+          "value": "built",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3218,
+          "offset_end": 3227,
+          "value": "mentioned",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3251,
+          "offset_end": 3255,
+          "value": "look",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3269,
+          "offset_end": 3277,
+          "value": "creating",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3297,
+          "offset_end": 3307,
+          "value": "straddling",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3408,
+          "offset_end": 3411,
+          "value": "hit",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3439,
+          "offset_end": 3443,
+          "value": "left",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3456,
+          "offset_end": 3459,
+          "value": "see",
+          "tag": "B-action"
+        },
+        {
+          "offset_start": 3471,
+          "offset_end": 3475,
+          "value": "take",
+          "tag": "B-action"
+        }
+      ],
+      "class": "derived"
+    },
+    {
+      "type": "tags",
+      "label": "Qntfy NER",
+      "version": "0.0.3",
+      "content": [
+        {
+          "offset_start": 16,
+          "offset_end": 31,
+          "value": "Sonic Citadel\n\n",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 31,
+          "offset_end": 34,
+          "value": "4.0",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 76,
+          "offset_end": 82,
+          "value": "Hermit",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 95,
+          "offset_end": 99,
+          "value": "USER",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 101,
+          "offset_end": 103,
+          "value": "30",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 104,
+          "offset_end": 111,
+          "value": "Reviews",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 114,
+          "offset_end": 132,
+          "value": "October 12th, 2019",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 135,
+          "offset_end": 138,
+          "value": "193",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 247,
+          "offset_end": 261,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 428,
+          "offset_end": 445,
+          "value": "Brian Chippendale",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 466,
+          "offset_end": 478,
+          "value": "Brian Gibson",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 609,
+          "offset_end": 626,
+          "value": "the past 25 years",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 807,
+          "offset_end": 821,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 961,
+          "offset_end": 975,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 998,
+          "offset_end": 1012,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1366,
+          "offset_end": 1375,
+          "value": "the years",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1477,
+          "offset_end": 1482,
+          "value": "2000s",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1584,
+          "offset_end": 1597,
+          "value": "Sonic Citadel",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1692,
+          "offset_end": 1703,
+          "value": "Chippendale",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1708,
+          "offset_end": 1714,
+          "value": "Gibson",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1769,
+          "offset_end": 1772,
+          "value": "one",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 1806,
+          "offset_end": 1814,
+          "value": "the year",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1832,
+          "offset_end": 1852,
+          "value": "just over 50 minutes",
+          "tag": "TIME"
+        },
+        {
+          "offset_start": 1854,
+          "offset_end": 1867,
+          "value": "Sonic Citadel",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1912,
+          "offset_end": 1948,
+          "value": "Ride the Skies and Wonderful Rainbow",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2277,
+          "offset_end": 2293,
+          "value": "Blow To The Head",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 2551,
+          "offset_end": 2560,
+          "value": "Tom Thump",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2635,
+          "offset_end": 2645,
+          "value": "Don Henley",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2653,
+          "offset_end": 2657,
+          "value": "Park",
+          "tag": "FAC"
+        },
+        {
+          "offset_start": 2835,
+          "offset_end": 2838,
+          "value": "one",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 2865,
+          "offset_end": 2880,
+          "value": "Sonic Citadel’s",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2901,
+          "offset_end": 2911,
+          "value": "All Insane",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 3032,
+          "offset_end": 3045,
+          "value": "Sonic Citadel",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3049,
+          "offset_end": 3063,
+          "value": "Lightning Bolt",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3186,
+          "offset_end": 3206,
+          "value": "the past two decades",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 3362,
+          "offset_end": 3375,
+          "value": "Sonic Citadel",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3377,
+          "offset_end": 3391,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 3610,
+          "offset_end": 3635,
+          "value": "CallSwans Leaving Meaning",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 3649,
+          "offset_end": 3659,
+          "value": "Run Around",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3660,
+          "offset_end": 3696,
+          "value": "the SunThurston Moore Spirit Counsel",
+          "tag": "FAC"
+        }
+      ],
+      "class": "derived"
+    }
+  ]
+}

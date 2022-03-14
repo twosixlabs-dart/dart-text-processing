@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+    <appender name="consoleAppender" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <!-- %l lowers performance -->
+            <!--<pattern>%d [%t] %-5p %l%n %m%n</pattern> -->
+            <pattern>%d - [ %-5level ] - %logger - [%t] %-5p %m%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="org.apache.spark" level="WARN"/>
+    <logger name="org.apache.spark.storage" level="WARN"/>
+    <logger name="org.apache.spark.scheduler" level="WARN"/>
+    <logger name="org.apache.spark.util" level="WARN"/>
+    <logger name="org.apache.spark.executor" level="WARN"/>
+    <logger name="org.apache.spark.ui" level="WARN"/>
+    <logger name="org.apache.spark.network" level="WARN"/>
+    <logger name="org.spark_project.jetty.server" level="WARN"/>
+
+
+    <root level="INFO">
+        <appender-ref ref="consoleAppender"/>
+    </root>
+
+</configuration>

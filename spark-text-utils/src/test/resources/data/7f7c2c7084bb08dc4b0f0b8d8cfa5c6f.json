@@ -1,0 +1,214 @@
+{
+  "capture_source": "BackgroundSource",
+  "extracted_metadata": {
+    "CreationDate": "2010-01-24",
+    "Type": "Web Page",
+    "Classification": "UNCLASSIFIED",
+    "URL": "https://www.sputnikmusic.com/review/34634/Lightning-Bolt-Ride-The-Skies/",
+    "Pages": 0
+  },
+  "content_type": "text/html",
+  "team": "Two Six Labs",
+  "document_id": "7f7c2c7084bb08dc4b0f0b8d8cfa5c6f",
+  "extracted_text": "Lightning Bolt\n\nRide The Skies\n\n3.5\n\ngreat\n\nReview\n\nby\nO.J. Simpson USER (17 Reviews)\n\nJanuary 24th, 2010 | 15 replies\n\nRelease Date: 2001 |\nTracklist\n\nReview Summary: Keep your children away.\n\nNot much can really put a cap on the superb energy of Lightning Bolt. Ride The Skies is the album that started to begin the massive acclaim that now is in possession of Lightning Bolt, and it remains consistent to their sound. While it doesn't surpass Wonderful Rainbows supreme execution of their sound, or Earthly Delights pure consistency, what Ride The Skies does do is offer the listener a couple of highlights and insights from a band worthy of praise. Although it doesn't quite match their forefathers, it does have quite the highlights.\n\nFor those who are unfamiliar with their sound, it's mostly categorized by the fact this bass n drum band sounds like a metal band. Brian Gibson's bass is detuned, distorted, and creatively altered and sounds like a shredding chainsaw. Other than the finger tapping exercise that consumes most of “The Faire Folk”, most of this and future albums by Lightning Bolt are consistently washed over in distortion, with the 'bass' buzzing and jumbling throughout the record. The drums try their best to back it up, and in doing so, clobber around the entire drum set, making sort of a messy effect. Basically, Ride The Skies is a gigantic mess, but oh what a glorious mess it is sound-wise.\n\nAmong this raw, virtuositic mess sound there are a couple of highlights song-wise as previously mentioned. “Into The Mist 2” consists of bass twiddling, free jazz drums, and hacksaw distortion, creating a wild ride into the sound of Lightning Bolt. “The Faire Folk”, as already mentioned, is the one place where the bass in Lightning Bolt sounds anything like, well, a bass, and keeps up with toe tapping, fast pace, building up to a fuzzy climax. “Forcefields” is the clear highlight of the record though, creating a bombastic, banging introduction to the album. “13 Monsters” relies on an oddball time signature, militant drums, and distorted vocals seemingly counting in an incomprehensible way, flushing out a unique way to push a samey sound.\n\nRide The Skies has its lowlights as well, like the incomprehensible noise of the closing duo “Wee One's Parade” and “Rotator” that, unlike the rest of the record, sees almost no construction other poorly executed dissonance. Both tracks just twiddle their thumbs in, what is rare amongst this band, pure noise. Despite that, while Ride The Skies and Lightning Bolt aren't for everyone, they do pull off their maniacal, stone-head, complex sound incredibly well. If your a fan of bizarrely-tuned and metallic sounding bass and messy, jazz-metal drums, done in a couple of different formats, then maybe Ride The Skies might be for you, but for those whose tastes consist of normal things, such as not this, well they should stay far away form this band altogether.\n\nRecent reviews by this author\n\nBig Boi Sir Lucious Left FootLootpack Soundpieces: Da Antidote!\n\nSun Ra LanquidityHigh on Fire Surrounded By Thieves\n\nCommon ResurrectionJeezy Trap Or Die 2: Reloaded",
+  "uri": "http://my.graph.com/rdf/model",
+  "source_uri": "ride-the-skies.html",
+  "extracted_ntriples": "<http://one.example/subject1> <http://one.example/predicate1> <http://one.example/object1> .",
+  "timestamp": "2020-01-01T22:10:06.000Z",
+  "annotations": [
+    {
+      "type": "tags",
+      "label": "Qntfy NER",
+      "version": "0.0.1",
+      "content": [
+        {
+          "offset_start": 0,
+          "offset_end": 14,
+          "value": "Lightning Bolt",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 32,
+          "offset_end": 35,
+          "value": "3.5",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 60,
+          "offset_end": 72,
+          "value": "Simpson USER",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 74,
+          "offset_end": 76,
+          "value": "17",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 77,
+          "offset_end": 84,
+          "value": "Reviews",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 87,
+          "offset_end": 105,
+          "value": "January 24th, 2010",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 108,
+          "offset_end": 110,
+          "value": "15",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 248,
+          "offset_end": 262,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 264,
+          "offset_end": 278,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 363,
+          "offset_end": 377,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 446,
+          "offset_end": 464,
+          "value": "Wonderful Rainbows",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 502,
+          "offset_end": 518,
+          "value": "Earthly Delights",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 542,
+          "offset_end": 556,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 871,
+          "offset_end": 885,
+          "value": "Brian Gibson's",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1037,
+          "offset_end": 1052,
+          "value": "The Faire Folk”",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 1088,
+          "offset_end": 1102,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1342,
+          "offset_end": 1356,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1546,
+          "offset_end": 1547,
+          "value": "2",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 1657,
+          "offset_end": 1671,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1674,
+          "offset_end": 1689,
+          "value": "The Faire Folk”",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 1720,
+          "offset_end": 1723,
+          "value": "one",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 1748,
+          "offset_end": 1762,
+          "value": "Lightning Bolt",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 1989,
+          "offset_end": 1991,
+          "value": "13",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 2173,
+          "offset_end": 2187,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2267,
+          "offset_end": 2276,
+          "value": "Wee One's",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 2277,
+          "offset_end": 2283,
+          "value": "Parade",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 2290,
+          "offset_end": 2297,
+          "value": "Rotator",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2504,
+          "offset_end": 2537,
+          "value": "Ride The Skies and Lightning Bolt",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2774,
+          "offset_end": 2788,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2980,
+          "offset_end": 2987,
+          "value": "Lucious",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3033,
+          "offset_end": 3039,
+          "value": "Sun Ra",
+          "tag": "ORG"
+        }
+      ],
+      "class": "derived"
+    }
+  ]
+}

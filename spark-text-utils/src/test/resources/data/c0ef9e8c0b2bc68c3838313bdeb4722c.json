@@ -1,0 +1,370 @@
+{
+  "capture_source": "BackgroundSource",
+  "extracted_metadata": {
+    "CreationDate": "2015-03-23",
+    "Type": "Web Page",
+    "Classification": "UNCLASSIFIED",
+    "URL": "https://www.sputnikmusic.com/review/66472/Lightning-Bolt-Fantasy-Empire/",
+    "Pages": 0
+  },
+  "content_type": "text/html",
+  "team": "Two Six Labs",
+  "document_id": "c0ef9e8c0b2bc68c3838313bdeb4722c",
+  "extracted_text": "Lightning Bolt\n\nFantasy Empire\n\n4.0\n\nexcellent\n\nReview\n\nby\nPolyethylene USER (23 Reviews)\n\nMarch 23rd, 2015 | 65 replies\n\nRelease Date: 2015 |\nTracklist\n\nReview Summary: Punchy songwriting and slick production make for another great Lightning Bolt release.\n\nLightning Bolt are a noise rock duo from Providence, Rhode Island. Everything about the band sounds far-fetched: both members are called Brian, one of whom plays drums and sings through a gas mask, while the other shreds a bass guitar strung with banjo strings. Their music is a technicolour assault of frantic percussion, distorted bass riffs and strangled vocals. And when I caught them live in Auckland in 2009, they played on the ground amongst the sweaty crush of the audience rather than up on a stage.\n\nThe duo being as anomalous as they are, I wouldn't blame you if you dismissed them as 'artsy'. What makes that adjective difficult to slap on Lightning Bolt, however, is just how fun their music is. They aren't a band for intellectual examination, but for pure visceral pleasure. Ever since their 2001 album Ride The Skies, there has been an ecstasy to their music I can only compare to the TV show Adventure Time. Everything about the band, from their album and song titles through to their rainbow-coloured artwork, beams with a childlike glee. And more often than not, the riffs they jackhammer into your brain are addictive melodic. YouTube the songs “Ride The Sky” or “Crown of Storms” if you want proof.\n\nDespite having such a tried-and-true formula, Lightning Bolt have made some welcome attempts to shake things up in the last few years. 2009's psychedelic Earthly Delights sported more dynamic production and a blistering, metal-inspired immediacy. New album Fantasy Empire continues this sense of evolution, and as a result is the most fully realized Lightning Bolt album to date. Their first release on the Thrill Jockey record label and sixth album overall, Fantasy Empire sees their signature intensity captured in high definition.\n\nIn a recent interview with Pitchfork Media, the band discussed how they deliberately deviated from the rough-as-guts approach to recording they've used in the past. “It was a desperate act,” said Brian Chippendale, the enigmatic drummer-vocalist of the group. “We just couldn't make headway with our old process.” It may have been born out of desperation, but the leap they took towards higher fidelity paid off immensely. When Chippendale's drums kick in on opener 'The Metal East', they don't ride atop the surges of distorted bass from Brian Gibson, but rather anchor them. This more complimentary relationship between the two Brians adds a three-dimensionality to their music. The drums, bass and vocals that comprise Lightning Bolt's snowstorm of sound seem to illuminate one another on Fantasy Empire, rather than compete for your attention. In terms of sonic detail, there are nuances in these songs that on a previous album would have gotten lost in the blur.\n\nHaving said all of that, there is a directness to the songwriting on Fantasy Empire that will surely polarize longterm fans. Though delivering hooky riffs is nothing new from the band, some people will surely lament the relative accessibility and cleaner production of Fantasy Empire as Lightning Bolt 'going mainstream.' While I personally preferred the howling psychedelia of Earthly Delights, the Lightning Bolt we know and love is still very much present on Fantasy Empire, and more tangible than ever. I already consider songs like the kaleidoscopic 'Over the River and Through the Woods' or the seething 'King of My World' as among the band's finest.\n\nIf you are a newcomer to Lightning Bolt, I would recommend starting with 2003's blissful Wonderful Rainbow. If you are already familiar with the band, get your mitts on this album as soon as possible.\n\nRecent reviews by this author\n\nPIG The GospelIdiot Flesh The Nothing Show\n\nChelsea Wolfe AbyssMac DeMarco Another One\n\nSon Lux BonesFaith No More Sol Invictus",
+  "uri": "http://my.graph.com/rdf/model",
+  "source_uri": "fantasy-empire.html",
+  "extracted_ntriples": "<http://one.example/subject1> <http://one.example/predicate1> <http://one.example/object1> .",
+  "timestamp": "2020-01-01T22:09:56.000Z",
+  "annotations": [
+    {
+      "type": "tags",
+      "label": "Qntfy NER",
+      "version": "0.0.1",
+      "content": [
+        {
+          "offset_start": 0,
+          "offset_end": 14,
+          "value": "Lightning Bolt",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 16,
+          "offset_end": 23,
+          "value": "Fantasy",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 32,
+          "offset_end": 35,
+          "value": "4.0",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 59,
+          "offset_end": 76,
+          "value": "Polyethylene USER",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 78,
+          "offset_end": 80,
+          "value": "23",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 81,
+          "offset_end": 88,
+          "value": "Reviews",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 91,
+          "offset_end": 107,
+          "value": "March 23rd, 2015",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 110,
+          "offset_end": 112,
+          "value": "65",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 122,
+          "offset_end": 134,
+          "value": "Release Date",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 136,
+          "offset_end": 140,
+          "value": "2015",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 170,
+          "offset_end": 176,
+          "value": "Punchy",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 233,
+          "offset_end": 247,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 258,
+          "offset_end": 272,
+          "value": "Lightning Bolt",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 299,
+          "offset_end": 309,
+          "value": "Providence",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 311,
+          "offset_end": 323,
+          "value": "Rhode Island",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 395,
+          "offset_end": 400,
+          "value": "Brian",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 402,
+          "offset_end": 405,
+          "value": "one",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 655,
+          "offset_end": 663,
+          "value": "Auckland",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 667,
+          "offset_end": 671,
+          "value": "2009",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 910,
+          "offset_end": 924,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1065,
+          "offset_end": 1069,
+          "value": "2001",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1076,
+          "offset_end": 1090,
+          "value": "Ride The Skies",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1167,
+          "offset_end": 1181,
+          "value": "Adventure Time",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 1424,
+          "offset_end": 1436,
+          "value": "Ride The Sky",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 1441,
+          "offset_end": 1457,
+          "value": "“Crown of Storms",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 1525,
+          "offset_end": 1539,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1594,
+          "offset_end": 1612,
+          "value": "the last few years",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1614,
+          "offset_end": 1618,
+          "value": "2009",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 1633,
+          "offset_end": 1649,
+          "value": "Earthly Delights",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1736,
+          "offset_end": 1750,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 1829,
+          "offset_end": 1843,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 1865,
+          "offset_end": 1870,
+          "value": "first",
+          "tag": "ORDINAL"
+        },
+        {
+          "offset_start": 1917,
+          "offset_end": 1922,
+          "value": "sixth",
+          "tag": "ORDINAL"
+        },
+        {
+          "offset_start": 1938,
+          "offset_end": 1952,
+          "value": "Fantasy Empire",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 2041,
+          "offset_end": 2056,
+          "value": "Pitchfork Media",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2210,
+          "offset_end": 2227,
+          "value": "Brian Chippendale",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2442,
+          "offset_end": 2453,
+          "value": "Chippendale",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2481,
+          "offset_end": 2496,
+          "value": "The Metal East'",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 2553,
+          "offset_end": 2565,
+          "value": "Brian Gibson",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2640,
+          "offset_end": 2643,
+          "value": "two",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 2644,
+          "offset_end": 2650,
+          "value": "Brians",
+          "tag": "NORP"
+        },
+        {
+          "offset_start": 2658,
+          "offset_end": 2663,
+          "value": "three",
+          "tag": "CARDINAL"
+        },
+        {
+          "offset_start": 2736,
+          "offset_end": 2752,
+          "value": "Lightning Bolt's",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 2806,
+          "offset_end": 2820,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 3052,
+          "offset_end": 3066,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 3252,
+          "offset_end": 3266,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 3270,
+          "offset_end": 3286,
+          "value": "Lightning Bolt '",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 3361,
+          "offset_end": 3377,
+          "value": "Earthly Delights",
+          "tag": "FAC"
+        },
+        {
+          "offset_start": 3379,
+          "offset_end": 3397,
+          "value": "the Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 3445,
+          "offset_end": 3459,
+          "value": "Fantasy Empire",
+          "tag": "GPE"
+        },
+        {
+          "offset_start": 3548,
+          "offset_end": 3553,
+          "value": "River",
+          "tag": "LOC"
+        },
+        {
+          "offset_start": 3570,
+          "offset_end": 3575,
+          "value": "Woods",
+          "tag": "PERSON"
+        },
+        {
+          "offset_start": 3593,
+          "offset_end": 3610,
+          "value": "'King of My World",
+          "tag": "WORK_OF_ART"
+        },
+        {
+          "offset_start": 3666,
+          "offset_end": 3680,
+          "value": "Lightning Bolt",
+          "tag": "ORG"
+        },
+        {
+          "offset_start": 3714,
+          "offset_end": 3718,
+          "value": "2003",
+          "tag": "DATE"
+        },
+        {
+          "offset_start": 3730,
+          "offset_end": 3747,
+          "value": "Wonderful Rainbow",
+          "tag": "PRODUCT"
+        },
+        {
+          "offset_start": 3966,
+          "offset_end": 3980,
+          "value": "Lux BonesFaith",
+          "tag": "PERSON"
+        }
+      ],
+      "class": "derived"
+    }
+  ]
+}
