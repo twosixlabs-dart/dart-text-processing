@@ -1,4 +1,4 @@
-# DART Operations
+# DART Text Processing Utils
 Common utilities for dealing with raw text data that can be embedded in a Scala/Java application or an Apache Spark application.
 
 # Modules
