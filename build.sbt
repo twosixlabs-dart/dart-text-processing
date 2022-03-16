@@ -5,9 +5,8 @@ organization in ThisBuild := "com.twosixlabs.dart"
 name := "dart-text-processing"
 
 resolvers in ThisBuild ++= Seq( "Maven Central" at "https://repo1.maven.org/maven2/",
-                                "JCenter" at "http://jcenter.bintray.com",
-                                "Local Ivy Repository" at s"file://${System.getProperty( "user.home" )}/.ivy2/local/default",
-                                "Spark Packages" at "https://dl.bintray.com/spark-packages/maven/" )
+                                "JCenter" at "https://jcenter.bintray.com",
+                                "Local Ivy Repository" at s"file://${System.getProperty( "user.home" )}/.ivy2/local/default" )
 
 crossScalaVersions in ThisBuild := Seq( "2.11.12", "2.12.7" )
 
@@ -38,3 +37,21 @@ test in publish := {}
 
 javacOptions in ThisBuild ++= Seq( "-source", "8", "-target", "8" )
 scalacOptions in ThisBuild += "-target:jvm-1.8"
+
+sonatypeProfileName := "com.twosixlabs"
+inThisBuild(List(
+    organization := organization.value,
+    homepage := Some(url("https://github.com/twosixlabs-dart/dart-text-processing")),
+    licenses := List("GNU-Affero-3.0" -> url("https://www.gnu.org/licenses/agpl-3.0.en.html")),
+    developers := List(
+        Developer(
+            "twosixlabs-dart",
+            "Two Six Technologies",
+            "",
+            url("https://github.com/twosixlabs-dart")
+            )
+        )
+    ))
+
+ThisBuild / sonatypeCredentialHost := "s01.oss.sonatype.org"
+ThisBuild / sonatypeRepository := "https://s01.oss.sonatype.org/service/local"
