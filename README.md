@@ -1,5 +1,6 @@
 # DART Text Processing Utils
-Common utilities for dealing with raw text data that can be embedded in a Scala/Java application or an Apache Spark application.
+Common utilities for dealing with raw text data that can be embedded in a Scala/Java application or an Apache Spark application.  
+[![Build and Publish](https://github.com/twosixlabs-dart/dart-text-processing/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/twosixlabs-dart/dart-text-processing/actions/workflows/build-and-publish.yml)
 
 # Modules
 | Module Name         | Description                                                    |

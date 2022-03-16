@@ -11,7 +11,7 @@ object Dependencies {
     val sparkNlpVersion = "2.4.2"
     val sparkFastTestVersion = "0.20.0-s_2.11"
 
-    val dartCommonsVersion = "3.0.307"
+    val dartCommonsVersion = "3.0.30"
 
     val scalaMockVersion = "4.2.0"
 
